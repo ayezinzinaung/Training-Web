@@ -1,6 +1,7 @@
 /* =========== Header ====================*/
 .header {
     background-color: rgba(29, 235, 217, 0.8);
+    justify-content: flex-end;
     height: 100px;
 }
 
