@@ -115,6 +115,11 @@
     text-align: center;
 }
 
+.ki_c{
+    font-size: 20px;
+    color: rgb(77, 11, 230);
+}
+
  /* ========================Fooder========================*/
    .footer{
     background:#cfa1a1;
