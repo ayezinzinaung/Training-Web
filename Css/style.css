@@ -58,6 +58,7 @@
  .profile-body a{
    font-size: 50px;
    border: 5px;
+   padding: 10px;
    color: #fff;
    background-color: #070707;
    border-radius: 30px;
