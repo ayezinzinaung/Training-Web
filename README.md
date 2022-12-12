@@ -1,2 +1,2 @@
-# Training-Web
-အသစ်သစ်ေတ ေလ့လာသည်
+# Web_Junior_Developer
+website အသစ်
