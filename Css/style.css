@@ -22,6 +22,16 @@
    -o-border-radius: 30px;
 }
 
+.menuIten{
+    text-decoration: none;
+    color: inherit;
+    border-radius: 30px;
+   -webkit-border-radius: 30px;
+   -moz-border-radius: 30px;
+   -ms-border-radius: 30px;
+   -o-border-radius: 30px;
+}
+
 .logo {
     margin-left: 50px;
     width: 100px;
@@ -67,11 +77,6 @@
    background-color: #e4abd7;
    display: inline-block;
    margin-left:20px;
-   border-radius: 30px;
-   -webkit-border-radius: 30px;
-   -moz-border-radius: 30px;
-   -ms-border-radius: 30px;
-   -o-border-radius: 30px;
  }
 
 .card > .card-info{
