@@ -4,22 +4,17 @@
     height: 100px;
 }
 
-.header .nav{
+.nav{
     float: right;
 }
-.header .nav button{
-   margin-top: 10px;
-   font-size: x-large;
-   padding: 5px 20px 5px 20px;
-   list-style-type: none;
-   background-color: #e4abd7;
-   display: inline-block;
-   margin-left:20px;
-   border-radius: 30px;
-   -webkit-border-radius: 30px;
-   -moz-border-radius: 30px;
-   -ms-border-radius: 30px;
-   -o-border-radius: 30px;
+
+.nav a{
+    font-size: x-large;
+    padding: 5px 20px 5px 20px;
+    list-style-type: none;
+    background-color: #e4abd7;
+    display: inline-block;
+    margin-left:20px;
 }
 
 .menuIten{
@@ -30,6 +25,10 @@
    -moz-border-radius: 30px;
    -ms-border-radius: 30px;
    -o-border-radius: 30px;
+}
+
+.menuIten:hover{
+    background-color: lightgreen;
 }
 
 .logo {
